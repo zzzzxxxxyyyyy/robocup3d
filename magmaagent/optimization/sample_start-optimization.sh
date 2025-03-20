@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Choose which optimization task to run
-task="kick" # "walk""kick""kickwalk""walkStable"
+task="walk" # "walk""kick""kickwalk""walkStable"
 
 # This script runs the simspark soccer simulator and an agent 
 
